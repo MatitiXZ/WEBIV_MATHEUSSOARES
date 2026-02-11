@@ -1,1 +1,2 @@
 algum conteúdo muito incrível do arquivo de teste 3 usado para "**testar os usos de branch**"
+adicionando conteúdo de texo de teste (esse é da b2)
